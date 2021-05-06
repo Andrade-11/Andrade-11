@@ -1,29 +1,29 @@
 <div align="center" justify="center">
  
 <h2>Gabriel,What's app?-c</h2>
-<p> 「  <em>QA ( sometimes full stack ツ ) </em>  」 </p>
+<p> 「  <em>QA (Studying to be a full Stack onde day ) </em>  」 </p>
 
 </div>
-<img width="50%" align="right" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Gabb-c&count_private=true&show_icons=true&theme=tokyonight"/>
+<img width="50%" align="right" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Andrade-11&count_private=true&show_icons=true&theme=tokyonight"/>
 
-<img width="50%" align="right" alt="Langagues" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabb-c&layout=compact&count_private=true&theme=tokyonight"/>
+<img width="50%" align="right" alt="Langagues" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrade-11&layout=compact&count_private=true&theme=tokyonight"/>
 
 <p align="left" >
 My name is Gabriel, everyone calls me Andrade. I'm a QA at Brazil. What motivates me to study and learn new technologies, is to always develop highly scalable projects with quality and innovation.
 </p>
 
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/Gabb-c?style=social">
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/Andrade-11?style=social">
 
 ----
- - 🔭 Currently Working on a setup for [Next.js](https://github.com/Gabb-c/react-ts-setup)
+ - 🔭 Currently Working in Zero Defect[Next.js](https://www.zero-defect.com.br/)
 
- - 📚 Studying Python,Selenium and C#
+ - 📚 Studying Python,Selenium,Cypress.
 
  - 📫 Let's get social on Discord! My user id: `Andrade #3439 `
 
  - 🖇️ Also visit my [Linkedin](https://www.linkedin.com/in/gabrieldiasdeandrade/) profile
 
- - ⚡ Fun fact! I play videogames everyday
+ - ⚡ Fun fact! I play videogames everyday.
 ----
 
 <h3>Languages</h3>
