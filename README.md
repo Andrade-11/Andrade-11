@@ -1,6 +1,6 @@
 <div align="center" justify="center">
  
-<h2>Gabriel,What's app?-c</h2>
+<h2>Gabriel,What's app?</h2>
 <p> 「  <em>QA (Studying to be a full Stack onde day ) </em>  」 </p>
 
 </div>
