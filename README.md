@@ -15,7 +15,7 @@ My name is Gabriel, everyone calls me Andrade. I'm a QA at Brazil. What motivate
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/Andrade-11?style=social">
 
 ----
- - 🔭 Currently Working in [Zero Defect](https://www.zero-defect.com.br/)
+ - 🔭 Currently Working in [DBServer](https://www.dbserver.com.br/)
 
  - 📚 Studying Python,Selenium,Cypress.
 
