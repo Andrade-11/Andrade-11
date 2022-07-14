@@ -16,9 +16,9 @@ My name is Gabriel, everyone calls me Andrade. I'm a QA at Brazil. What motivate
 
 ---
 
-- 🔭 Currently Working in [DBServer](https://www.dbserver.com.br/)
+- 🔭 Currently Working in [+A Educação](https://maisaedu.com.br/)
 
-- 📚 Studying Python, Selenium and Cypress
+- 📚 Studying C#, Selenium , Java
 
 - 📫 Let's get social on Discord! My user id: `Andrade #3439`
 
