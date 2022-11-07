@@ -16,7 +16,7 @@ My name is Gabriel, everyone calls me Andrade. I'm a QA at Brazil. What motivate
 
 ---
 
-- 🔭 Currently Working in [+A Educação](https://maisaedu.com.br/)
+- 🔭 Currently Working in [Dell]([https://maisaedu.com.br/](https://www.dell.com/pt-br))
 
 - 📚 Studying C#, Selenium , Java
 
