@@ -18,7 +18,7 @@ My name is Gabriel, everyone calls me Andrade. I'm a QA at Brazil. What motivate
 
 - 🔭 Currently Working in [Dell]([https://maisaedu.com.br/](https://www.dell.com/pt-br))
 
-- 📚 Studying C#, Selenium , Java
+- 📚 Studying Selenium , Java , Spring Boot
 
 - 📫 Let's get social on Discord! My user id: `Andrade #3439`
 
