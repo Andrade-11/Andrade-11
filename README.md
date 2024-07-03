@@ -1,10 +1,8 @@
 <div align="center" justify="center">
  
 <h1>Gabriel, A.K.A Andrade-11</h1>
-<h3> 「  <em>QA (Studying to be a full Stack onde day )</em>  」 </h3>
 
 </div>
-
 <img align="left" alt="Metrics" src="https://github.com/Andrade-11/Andrade-11/blob/main/github-metrics.svg" />
 
 <p align="left" >
