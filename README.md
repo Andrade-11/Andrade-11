@@ -7,7 +7,6 @@
 Building web, mobile and backend systems with a focus on architecture, product development and real-world business problems.
 
 [Portfolio](https://andrade-11.github.io/portifolio/) •
-[GitHub](https://github.com/Andrade-11) •
 [Email](mailto:andrade.prog.11@gmail.com)
 
 <br />
